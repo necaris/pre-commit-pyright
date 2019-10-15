@@ -4,4 +4,4 @@
   language: node
   types: [python]
   # require_serial: true
-  additional_dependencies: ["pyright@1.0.73"]
+  additional_dependencies: ["pyright@1.0.74"]
