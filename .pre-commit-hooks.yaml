@@ -3,6 +3,7 @@
   entry: pyright
   language: node
   types: [python]
-  args: ["--config=pytype.cfg",]
-    # require_serial: true
-    # additional_dependencies: []
+  args: []
+  verbose: true
+  # require_serial: true
+  additional_dependencies: ["pyright@1.0.73"]

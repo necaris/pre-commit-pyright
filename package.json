@@ -1,7 +1,5 @@
 {
   "name": "pre-commit-pyright",
-  "version": "1.0.73",
-  "dependencies": {
-    "pyright": "^1.0.73"
-  }
+  "version": "0.0.0",
+  "description": "dummy package wrapping pyright"
 }
