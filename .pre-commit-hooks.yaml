@@ -3,7 +3,5 @@
   entry: pyright
   language: node
   types: [python]
-  args: []
-  verbose: true
   # require_serial: true
   additional_dependencies: ["pyright@1.0.73"]
