@@ -1,8 +1,8 @@
--   id: pyright
-    name: pyright
-    entry: pyright
-    language: node
-    types: [python]
-    # args: ["--config=pytype.cfg",]
+- id: pyright
+  name: pyright
+  entry: pyright
+  language: node
+  types: [python]
+  args: ["--config=pytype.cfg",]
     # require_serial: true
     # additional_dependencies: []
