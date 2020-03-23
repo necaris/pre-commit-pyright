@@ -8,7 +8,7 @@ In your `.pre-commit-config.yaml` include the following block.
 -   repo: https://github.com/necaris/pre-commit-pyright
     rev: '1.0.73'
     hooks:
-    -   id: pytype
+    -   id: pyright
 ```
 
 If you have a `pyrightconfiguration.json` defined, this hook will honor it.
